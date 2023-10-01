@@ -1,11 +1,11 @@
 # professional-documents
 Camden Scholl's portfolio containing documents relating to experience, skills, and cybersecurity training.
 
-Summary:
-	```Resume: resume.docx```
-	```Programming: list of coding projects and github links```
-	```Awards and Certificates: various```
-	```Google Cybersecurity Activies: relevant activities from Coursera```
+## Summary
+```Resume: resume.docx```
+```Programming: list of coding projects and github links```
+```Awards and Certificates: various```
+```Google Cybersecurity Activies: relevant activities from Coursera```
 
 
 The Google Cybersecurity Activities folder contains activities provided by the Google Cybersecurity Certificate program on Coursera that I have completed.
