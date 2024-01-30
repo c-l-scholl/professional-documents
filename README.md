@@ -3,8 +3,11 @@ Camden Scholl's portfolio containing documents relating to experience, skills, a
 
 ## Summary
 ```Resume: resume.docx```
+
 ```Programming: list of coding projects and github links```
-```Awards and Certificates: various```
+
+```Awards and Certificates: Academic and Online```
+
 ```Google Cybersecurity Activies: relevant activities from Coursera```
 
 
