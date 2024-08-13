@@ -1,4 +1,4 @@
-# Camden Scholl' Programming Projects
+# Camden Scholl Programming Projects
 ## These are my school and personal projects beginning from 2021.
 ### * = in progress
 
