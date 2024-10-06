@@ -19,4 +19,5 @@ All of my answers are in italics to help them stand out. The folders listed as m
 ## Related Links
 
 ### Linkedin
-https://www.linkedin.com/in/camden-scholl
+[LinkedIn](https://www.linkedin.com/in/camden-scholl)
+[Portfolio Website](https://camdenscholl.vercel.app/)
